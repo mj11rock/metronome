@@ -1,0 +1,34 @@
+.metronome {
+  text-align: center;
+  max-width: 380px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.bpm-slider {
+  margin: 20px 10%;
+}
+input {
+  width: 100%;
+}
+
+.btn {
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  width: 100px;
+  color: #fff;
+  font-size: 18px;
+}
+.btn-danger {
+  border: 1px solid #832420;
+  background-color: #c94d46;
+}
+.btn-success {
+  border: 1px solid #2f8320;
+  background-color: #2b6e1f;
+}
+body {
+  background-color: aliceblue;
+}
